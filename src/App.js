@@ -7,10 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          meong guk guk
+          meong guk guk brem brem brem
         </p>
         <p>
-          Edit <code>src/App.js</code> and save to reload. bray bray bray guk guk guk bray wueck queck
+          Edit <code>src/App.js</code> and save to reload. brem
+          bray bray bray guk guk guk bray wueck queck
         </p>
         <a
           className="App-link"
