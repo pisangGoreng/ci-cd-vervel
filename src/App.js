@@ -10,7 +10,7 @@ function App() {
           meong guk guk
         </p>
         <p>
-          Edit <code>src/App.js</code> and save to reload. bray bray bray
+          Edit <code>src/App.js</code> and save to reload. bray bray bray guk guk guk
         </p>
         <a
           className="App-link"
